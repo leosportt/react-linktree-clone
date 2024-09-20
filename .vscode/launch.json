@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://ftg8j98n-3000.brs.devtunnels.ms/",
+            "request": "launch",
+            "url": "https://ftg8j98n-3000.brs.devtunnels.ms/"
+        }
+    ]
+}
